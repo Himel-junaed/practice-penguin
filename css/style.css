@@ -7,6 +7,9 @@ h1, span{
 .btn{
     background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
 }
+.btn-submit{
+    background: linear-gradient(180deg, #eec53f 0%, #a08019 100%);
+}
 .col{
     border-radius: 10px;
 }
