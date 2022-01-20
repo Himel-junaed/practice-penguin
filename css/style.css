@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Pacifico&family=Poppins:wght@400;700&display=swap');
+
+h1, span{
+    font-family: 'Oswald';
+    font-size: 5rem;
+}
+.btn{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
+.col{
+    border-radius: 10px;
+}
+h3{
+  color: #FABE4C;
+  font-weight: bolder;
+}
